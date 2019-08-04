@@ -15,7 +15,7 @@ console.log(chalk.yellow('Liscense System Created By: Julien-Alexandre Pinard'))
 
 // Database Connection Link.
 
-const uri = "Your mongoDB auth link";
+const uri = "Your MongoDB auth link";
 
 // Connect to the database.
 
