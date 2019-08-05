@@ -1,5 +1,5 @@
 //////////////////////////////////////
-// Made By: Julien-Alexandre Pinard //
+// Made By: TheRedDeath             //
 // Project: Liscensing System       //
 // Version: 0.0.1                   //
 //////////////////////////////////////
